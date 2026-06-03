@@ -53,7 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=imranparthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://trophy.benkou.dev//?username=imranparthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## **Latest Projects** 🚀
 
