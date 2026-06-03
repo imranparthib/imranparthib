@@ -53,7 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ImranParthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=imranparthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## **Latest Projects** 🚀
 
@@ -293,18 +293,18 @@ These are my advanced and polished projects, showcasing full functionality and d
 <table >
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+                alt="imranparthib" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="imranparthib" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
     <tr>
         <td  style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthib&theme=react&hide_border=false"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranparthib&theme=react&hide_border=false"
+                alt="imranparthib" style="display: block; margin: 0 auto;" />
         </td>
         <td  style="text-align: center;">
                 <img src="./image/fly.gif" alt="Flying animation" height="200" width="280" style="display: block; margin: 0 auto;" />
