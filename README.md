@@ -13,7 +13,7 @@
 </p>
         </td>
         <td hieght="50%">  
- <img src="./image/portfolio.png" width=" ">
+ <img src="./image/website.png" width=" ">
  
 <p>
     <a href="https://imranparthib.vercel.app/" >
@@ -53,7 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://trophy.benkou.dev//?username=imranparthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://trophy.benkou.dev/?username=imranparthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## **Latest Projects** 🚀
 
@@ -293,11 +293,11 @@ These are my advanced and polished projects, showcasing full functionality and d
 <table >
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
                 alt="imranparthib" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+            <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
                 alt="imranparthib" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
@@ -311,17 +311,4 @@ These are my advanced and polished projects, showcasing full functionality and d
         </td> 
     </tr>
 </table>
-<be>
-<!-- <img src="https://raw.githubusercontent.com/ImranParthib/ImranParthib/output/snake.svg" alt="Snake animation"/> -->
-    <!-- ✍️Random Dev Quote & Meme: -->
-    <!-- <table>
-        <tr>
-            <td>
-                <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-                    alt="Random Dev Quote" />
-            </td>
-            <td>
-                <img src='https://randommeme-five.vercel.app/' style="height: 300px;" />
-            </td>
-        </tr>
-    </table> -->
+ 
